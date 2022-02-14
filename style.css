@@ -1,0 +1,25 @@
+form{
+    display: flex;
+    flex-direction: column;
+
+}
+
+article{
+    display: flex;
+    flex-direction: column;
+
+}
+
+img
+
+{
+    width : 250px;
+    height : 400px;
+
+}
+
+.titre
+{
+    background-color: black;
+    color : white;
+}
